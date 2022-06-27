@@ -1,5 +1,15 @@
 # Web Scraping Program
-A program that scraps products from a given website's pages and export the data into CSV file using BeautifulSoup by Python.
+A program that scraps products from a given website and export the data into CSV file using BeautifulSoup by Python.
+
+**Data:**
+--
+• Company Name
+• Product Name
+• Page URL
+• Page Number
+• Image Link
+• Price Range
+• Rating
 
 **Run Sample**
 --
